@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.example.root.firebasephoneauthkotlin.SignedInActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hi"
+        android:textSize="72sp"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:id="@+id/but_sign_out"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="42dp"
+        android:layout_marginBottom="24dp"
+        android:textSize="18dp"
+        android:shadowColor="@color/cardview_dark_background"
+        android:textColor="#ffffff"
+        android:elevation="3dp"
+        android:background="@drawable/button_rounded_corners"
+        android:text="SIGN OUT"
+        android:layout_alignParentBottom="true"
+        />
+</RelativeLayout>

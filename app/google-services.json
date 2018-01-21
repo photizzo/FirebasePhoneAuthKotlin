@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61417340130",
+    "firebase_url": "https://fir-phoneauthkotlin.firebaseio.com",
+    "project_id": "fir-phoneauthkotlin",
+    "storage_bucket": "fir-phoneauthkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61417340130:android:2f5dd944021c6794",
+        "android_client_info": {
+          "package_name": "com.example.root.firebasephoneauthkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61417340130-43djna00dbnvlolcpalivi1dftgqvfu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.firebasephoneauthkotlin",
+            "certificate_hash": "88e1acb0122545baadb63f2ddf3779e1e4ea39ba"
+          }
+        },
+        {
+          "client_id": "61417340130-7s5529inhdjfkrrjvsotflu9rpjb3jtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIskfCw-89On7XJlcfurm9tnbNL10NCag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61417340130-7s5529inhdjfkrrjvsotflu9rpjb3jtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
